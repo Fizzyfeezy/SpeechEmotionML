@@ -4,10 +4,9 @@ Augmented_audio/
 cnns_model/
 ravdess/
 VIVAE/
-emotion-recognition-app/node_modules/
+emotion-recognition-app/
 questionaire_audio/
 images/
 main2.ipynb
 vivae_main.ipynb
 asvp_vivae_main.ipynb
-emotion-recognition-app/
